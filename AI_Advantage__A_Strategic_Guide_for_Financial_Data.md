@@ -1,3 +1,5 @@
+# AI Advantage: A Strategic Guide for Financial Data Vendors in the GenAI Era
+
 - [AI Advantage: A Strategic Guide for Financial Data Vendors in the GenAI Era](#ai-advantage-a-strategic-guide-for-financial-data-vendors-in-the-genai-era)
   - [Understanding the GenAI Revolution in Financial Data](#understanding-the-genai-revolution-in-financial-data)
     - [The Evolving Landscape of Financial Services Data](#the-evolving-landscape-of-financial-services-data)
@@ -91,6 +93,8 @@
       - [The Importance of Responsible AI Development and Deployment](#the-importance-of-responsible-ai-development-and-deployment)
       - [The Role of Data Vendors in Shaping the Future of Finance](#the-role-of-data-vendors-in-shaping-the-future-of-finance)
       - [A Call to Action for Innovation and Collaboration](#a-call-to-action-for-innovation-and-collaboration)
+
+<div style="page-break-before:always;">
 
 # AI Advantage: A Strategic Guide for Financial Data Vendors in the GenAI Era
 
